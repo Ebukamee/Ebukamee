@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Ebuka
-- 👀 I’m interested in Frontend Engineering
-- 🌱 I’m currently learning Frontend Tools
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+# 👋 Hi, I’m Ebuka
+<h2> Software Engineer</h2>
+<div>
+  <h3>About Me</h3>
+Hello and welcome to my Github profile. My name is Chukwuebuka and I am Softwate Engineer, focousing on Frontend Development and the moment.
+I use the Frameworks React and Vue to bring web to life.
+</div>
+<div>
+  <h3>Languages and Frameworks</h3>
+  <span>
+   ![image](https://github.com/Ebukamee/Ebukamee/assets/99645482/916f6c20-1e2a-43a8-9975-21fdef38242b)
 
-<!---
-Ebukamee/Ebukamee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+' alt='React'>
+
+  </span>
+</div>
