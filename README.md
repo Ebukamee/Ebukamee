@@ -12,6 +12,11 @@ I use the Frameworks React and Vue to bring web to life.
      <li>JavaScript</li>
      <li>React</li>
       <li>TypeScript</li>
+     <li>PHP</li>
+     <li>Golang</li>
+     <li>Laravel</li>
+     <li>Blade</li>
+     <li>SQLite</li>
      <li>Vue</li>
      <li>HTML</li>
      <li>CSS</li>
