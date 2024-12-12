@@ -17,6 +17,8 @@ I use the Frameworks React and Vue to bring web to life.
      <li>Laravel</li>
      <li>Blade</li>
      <li>SQLite</li>
+     <li>MySQL</li>
+     <li>PostgreSQL</li>
      <li>Vue</li>
      <li>HTML</li>
      <li>CSS</li>
