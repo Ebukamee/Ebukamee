@@ -3,7 +3,7 @@
 <div>
   <h3>About Me</h3>
 Hello and welcome to my Github profile. My name is Chukwuebuka and I am Softwate Engineer from Nigeria, focousing on Frontend Development at the moment.
-I use the Frameworks React and Vue to bring web to life.
+I use the Frameworks React,Vue and Laravel to bring web to life.
 </div>
 <div>
   <h3>Languages and Tools</h3>
